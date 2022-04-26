@@ -1,9 +1,9 @@
 
 - 👋 Hi, I’m @Kaindall
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in work in this area on the Junior level on the future.
+- 🌱 I’m currently learning Python, Pandas, Flask
+- 💞️ I’m looking to collaborate on all projects that I can.
+- 📫 Reach me in any social media! I will answer more fast that I can.
 
 ---
 
