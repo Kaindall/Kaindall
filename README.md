@@ -26,7 +26,7 @@
 
 <p align="center">
 <a href="https://github.com/Kaindall/github-readme-stats">
-    <img alt="fbk_link" src='https://github-readme-stats.vercel.app/api/top-langs/?username=Kaindall&layout=compact&title_color=FEFFFF&text_color=FEFFFF&icon_color=FEFFFF&bg_color=DEG,434343,000000&border_radius=15'>
+    <img alt="fbk_link" src='https://github-readme-stats.vercel.app/api/top-langs/?username=Kaindall&layout=compact&title_color=FEFFFF&text_color=FEFFFF&icon_color=FEFFFF&bg_color=DEG,434343,000000&border_radius=15&include_all_commits=true&count_private=true''>
   </a>
 </p>
 
