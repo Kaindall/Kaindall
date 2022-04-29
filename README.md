@@ -1,11 +1,20 @@
+<div align="center">
+  <img src="forest_string.gif">
+</div>
 
-- 👋 Hi, I’m @Kaindall
+---
+
+<div>
+  <img src="triangle.gif" width=140 height=140 align="right">
+</div>
+   
+  
+  
 - 👀 I’m interested in work in this area on the Junior level on the future.
-- 🌱 I’m currently learning Python, Pandas, Flask
+- 🌱 I’m currently learning Python, Pandas, Flask, PyAutoGui, HTML and CSS.
 - 💞️ I’m looking to collaborate on all projects that I can.
 - 📫 Reach me in any social media! I will answer more fast that I can.
 
----
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gustavo-zanetti-873317194/">
