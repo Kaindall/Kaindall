@@ -10,9 +10,9 @@
    
   
   
-- 👀 I’m interested in work in this area on the Junior level on the future.
-- 🌱 I’m currently learning Python, Pandas, Flask, PyAutoGui, HTML and CSS.
-- 💞️ I’m looking to collaborate on all projects that I can.
+- 👀 I’m interested to work in the IT area focusing in the Data Analyst or Engineering at Junior Level
+- 🌱 I’m currently learning content to be a Data Analyst (Unimed BH Bootcamp by DIO)
+- 💞️ I’m looking to collaborate on all projects that I can, so if you need some help, contact me!
 - 📫 Reach me in any social media! I will answer more fast that I can.
 
 
@@ -33,11 +33,11 @@
 
 ---
 
-<p align="center">
+<!--<p align="center">
 <a href="https://github.com/Kaindall/github-readme-stats">
     <img alt="fbk_link" src='https://github-readme-stats.vercel.app/api/top-langs/?username=Kaindall&layout=compact&title_color=FEFFFF&text_color=FEFFFF&icon_color=FEFFFF&bg_color=DEG,434343,000000&border_radius=15&include_all_commits=true&count_private=true''>
   </a>
-</p>
+</p>-->
 
 <p align="center">
 <a href="https://github.com/Kaindall/github-readme-stats">
