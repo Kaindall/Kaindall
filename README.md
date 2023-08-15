@@ -10,8 +10,9 @@
    
   
   
-- 👀 I’m interested to work in the IT area focusing in the Data Sciente relative area at Junior Level
-- 🌱 I’m currently learning content to be a Data Analyst (Unimed BH Bootcamp by DIO)
+- 👀 I’m interested to work in the IT area focusing on development in Junior, Trainee or Internship level
+- 🌱 I’m already know , SQL (MySQL), Power BI, Advanced Level Excel, Java and Python with the following technologies: NumPy, Pandas, Matplotlib, Seaborn, Tkinter, PyAutoGui, Pyperclip.
+- 📘 I'm learning Django & Spring (Spring Boot). also HTML, CSS and Javascript.
 - 💞️ I’m looking to collaborate on all projects that I can, so if you need some help, contact me!
 - 📫 Reach me in any social media! I will answer more fast that I can.
 
