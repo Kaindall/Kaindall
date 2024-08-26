@@ -10,10 +10,14 @@
    
   
   
-- 👀 I’m interested to work in the IT area focusing on development in Junior, Trainee or Internship level
-- 🌱 I’m already know , SQL (MySQL), Power BI, Advanced Level Excel, Java and Python with the following technologies: NumPy, Pandas, Matplotlib, Seaborn, Tkinter, PyAutoGui, Pyperclip.
-- 📘 I'm learning Django & Spring (Spring Boot). also HTML, CSS and Javascript.
+- 👀 I’m currently working in the IT area as Solutions Architect Intern at Banco Toyota do Brasil.
+  
+- 🌱 I already know SQL (MySQL & SQLServer), Power BI, Advanced Level Excel (VBA included), Java (Springboot), Javascript, Typescript (Angular) and Python with the following technologies: Selenium, NumPy, Pandas, Matplotlib, Seaborn, Tkinter, PyAutoGui and Pyperclip (used to Web Scrapping/Crawling, entire ETL process and automation).
+  
+- 📘 I'm currently improving my Angular and Java skills with some projects, implementing also some good development practices as SOLID, KISS and thinking about architecture and design patterns while developing.
+  
 - 💞️ I’m looking to collaborate on all projects that I can, so if you need some help, contact me!
+  
 - 📫 Reach me in any social media! I will answer more fast that I can.
 
 
